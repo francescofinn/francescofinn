@@ -41,7 +41,7 @@ Oh yeah, and I code.
 
 ### Get in touch 🤝
 <div align="left">
-  <a href="linkedin.com/in/francesco-finn-645663255" target="_blank">
+  <a href="https://www.linkedin.com/in/francesco-finn-645663255" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/frankie_the_drummer/" target="_blank">
