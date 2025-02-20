@@ -44,7 +44,7 @@ Oh yeah, and I code.
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo" /> 
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" height="40" alt="scikitlearn logo" /> 
+  <img src="scikit-learn-icon-white-bg.png" height="40" alt="scikitlearn logo" /> 
   &nbsp;
   <img src="Untitled.png" height="40" alt="flask logo" /> 
   &nbsp;
