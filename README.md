@@ -1,5 +1,5 @@
 ## Hi there 👋
-My name is Francesco Finn. I'm a student at McGill University 🍁 majoring in Computer Science.
+My name is Francesco Finn. I'm a graduate from McGill University 🍁 Computer Science.
 I love playing the drums and going to the gym. 
 
 <div align="center">
