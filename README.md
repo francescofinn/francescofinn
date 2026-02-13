@@ -8,7 +8,7 @@ I love playing the drums and going to the gym.
   <img src="https://github.com/francescofinn/francescofinn/assets/117033284/daeabdb5-bd41-442d-96bd-017a7b40a850" width=14.775% height=9.165% />
 </div>
 
-Oh yeah, and I code.
+Here are some cool icons that represent things I use sometimes:
 
 ### Tech 🖥️
 <div align="left">
