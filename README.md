@@ -1,5 +1,5 @@
 ## Hi there 👋
-My name is Francesco Finn. I'm a graduate from McGill University 🍁 Computer Science.
+My name is Francesco Finn. I'm a graduate from McGill University 🍁 Computer Science, and have professional experience in Full-Stack/AI-Systems Development.
 I love playing the drums and going to the gym. 
 
 <div align="center">
